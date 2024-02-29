@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## ✨ HELLO!! I'AM VICTOR MOMESSO ✨
 
-- 💻🎇 Cursando Análise e Desenvolvimento de Sistemas
-- 😎 Formado no curso técnico de Desenvolvimento de Sistemas na Etec Antônio Furlan 
+- 💻🎇 Cursando Web & Computer Programming pela BYU-I
+- 😎 Formado no curso técnico de Desenvolvimento de Sistemas pela Etec Antônio Furlan 
 
 
 
